@@ -1,0 +1,8 @@
+/Users/susangarry/Desktop/SeniorSpring/cs6120/6120-llvm/build/CMakeFiles/intrinsics_gen.dir
+/Users/susangarry/Desktop/SeniorSpring/cs6120/6120-llvm/build/CMakeFiles/omp_gen.dir
+/Users/susangarry/Desktop/SeniorSpring/cs6120/6120-llvm/build/CMakeFiles/acc_gen.dir
+/Users/susangarry/Desktop/SeniorSpring/cs6120/6120-llvm/build/CMakeFiles/edit_cache.dir
+/Users/susangarry/Desktop/SeniorSpring/cs6120/6120-llvm/build/CMakeFiles/rebuild_cache.dir
+/Users/susangarry/Desktop/SeniorSpring/cs6120/6120-llvm/build/const_fold/CMakeFiles/FoldAddPass.dir
+/Users/susangarry/Desktop/SeniorSpring/cs6120/6120-llvm/build/const_fold/CMakeFiles/edit_cache.dir
+/Users/susangarry/Desktop/SeniorSpring/cs6120/6120-llvm/build/const_fold/CMakeFiles/rebuild_cache.dir
